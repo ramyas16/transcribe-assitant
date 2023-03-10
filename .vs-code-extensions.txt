@@ -1,0 +1,10 @@
+alexkrechik.cucumberautocomplete
+amatiasq.sort-imports
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+hashicorp.terraform
+humao.rest-client
+mohsen1.prettify-json
+ms-vsliveshare.vsliveshare
+streetsidesoftware.code-spell-checker
+tombonnike.vscode-status-bar-format-toggle
